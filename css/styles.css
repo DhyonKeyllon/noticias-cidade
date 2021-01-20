@@ -52,7 +52,7 @@ ul {
     background: url(../img/divisor.png) no-repeat left center;
 }
 
-/*Remover divisor da esuerda*/
+/*Remover divisor da esquerda*/
 #topo ul .remover-borda a {
     background: none;
 }
@@ -60,7 +60,7 @@ ul {
 #topo ul a:hover {
     color: #69001d;
 }
-
+/* Pagina atual navegacao topo*/
 body.home #navegacao a#home, 
 body.brasil #navegacao a#brasil,
 body.internacional #navegacao a#internacional, 
@@ -125,7 +125,7 @@ h2 {
     margin-top: 5px;
 }
 
-/************
+/*
 Formatar menus laterais
 */
 
@@ -145,6 +145,7 @@ Formatar menus laterais
     padding-left: 20px;
 }
 
+/*Formularios*/
 label {
     display: block;
     cursor: pointer;
@@ -164,6 +165,30 @@ input.submit {
     border: 2px solid #870529;
 }
 
+/*Formatando imagens*/
+img.imagem-principal {
+    width: 98%;
+    border: 3px solid #dfdfdf
+}
+
+/*Formatando cabeçalhos*/
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.destaque h3 {
+    background: #b10333;
+    color: #fff;
+}
+.entrevista h3 {
+    background: #de003e;
+    color: black;
+}
+
+/*Rodape*/
 #container-rodape {
     background: #294c71;
     padding: 20px;
