@@ -1,9 +1,3 @@
-# noticias-cidade
-
-Site de notícias de uma cidade fictícia.
-
--HTML5
--CSS3
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="/img/logo.png" alt="Logo">
