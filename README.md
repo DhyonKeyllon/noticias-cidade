@@ -26,7 +26,7 @@ Esses foram os recursos usados para o desenvolvimento:
 
 ### Objetivo
 
-Objetivo do site é mostrar um template de um site de notícias
+Site de notícias para fins acadêmicos.
 
 ## License
 
